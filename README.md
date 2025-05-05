@@ -127,7 +127,7 @@ python FrontEnd.py
 - Figure: YOLO detecting a “Speed 80” sign and overlaying the label + playing 80.mp3.
 
 # 👩‍💻 Team Members
-- Abdulaziz
+- Abdulaziz Alhaizan
 - Feras Alswaid
 - Abdulaziz Alkharjy
 - Waref Alyousef
