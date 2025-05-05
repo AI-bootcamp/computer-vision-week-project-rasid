@@ -128,9 +128,9 @@ python FrontEnd.py
 
 # 👩‍💻 Team Members
 - Abdulaziz
-- Feras
+- Feras Alswaid
 - Abdulaziz Alkharjy
-- W.
-- D.
+- Waref Alyousef
+- Dania Emad
 
 
