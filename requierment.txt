@@ -1,0 +1,18 @@
+# Core Application
+streamlit==1.32.2
+opencv-python==4.9.0.80
+numpy==1.26.4
+pygame==2.5.2
+
+# Deep Learning Frameworks
+torch==2.2.1
+torchvision==0.17.1
+ultralytics==8.1.27
+tensorflow==2.19.0
+
+# Utilities & Visualization
+matplotlib==3.8.3
+tempfile-thread==0.1.0
+
+# Google Colab Integration (optional)
+google-colab==1.0.0
